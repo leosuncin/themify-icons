@@ -12,9 +12,13 @@ All icons can be viewed at [http://themify.me/themify-icons](http://themify.me/t
 ```sh
 $ bower install --save themify-icons
 ```
+or
+```sh
+$ npm install --save themify-icons-font
+```
 
 ## Usage
-- Include `themify-icions` into your app `index.html` 
+- Include `themify-icons` into your app `index.html` 
 ```html
 <!doctype html>
 <html ng-app="app">
