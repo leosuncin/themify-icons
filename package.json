@@ -1,6 +1,6 @@
 {
   "name": "themify-icons-font",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7",
   "main": "css/themify-icons.css",
   "scripts": {
