@@ -1,0 +1,24 @@
+{
+  "name": "themify-icons-font",
+  "version": "1.0.1",
+  "description": "Pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7",
+  "main": "css/themify-icons.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leosuncin/themify-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "line",
+    "iOS",
+    "pixel",
+    "perfect",
+    "draw"
+  ],
+  "author": "themify (https://themify.me/themify-icons)",
+  "license": ["MIT", "OFL"],
+  "homepage": "https://themify.me/themify-icons"
+}
